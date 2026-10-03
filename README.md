@@ -1,1 +1,1 @@
-#
+#AdGuard Telemetry CDL
